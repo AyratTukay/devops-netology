@@ -1,5 +1,6 @@
 # devops-netology
 Tukaev Ayrat
+Netology
 
  Во вновь созданном файле .gitignore имеются следующие строки:
 ```
